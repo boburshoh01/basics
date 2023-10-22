@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 
 })
 export class AppComponent {
-  name = 'Luis';
+  name = 'luis ramirez';
   imgURL = 'https://picsum.photos/id/237/500/500'
 
   getName() {
